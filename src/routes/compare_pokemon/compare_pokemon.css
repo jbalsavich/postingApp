@@ -8,3 +8,6 @@
 Pokemon {
     top: 0%;
 }
+ul{
+    list-style: none;
+}
